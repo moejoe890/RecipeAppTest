@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "371798050121",
+    "firebase_url": "https://recipeapp3-a9b04-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "recipeapp3-a9b04",
+    "storage_bucket": "recipeapp3-a9b04.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371798050121:android:c3a5e723dafa4f67de8698",
+        "android_client_info": {
+          "package_name": "com.mycompany.recipeapp3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjzOKWtV-XNYKuXRjK_1eVKoH_L1mzZA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
